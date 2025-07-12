@@ -2,37 +2,26 @@
 
 import { renderProjectsView } from './views/progetti_view.js';
 import { renderTasksView } from './views/tasks_view.js';
-// Importa qui le altre viste quando saranno pronte
+import { renderImprevistiView } from './views/imprevisti_view.js'; // <-- NUOVO IMPORT
 
 const appContainer = document.getElementById('app-container');
 
 function handleRouteChange(appState) {
     const hash = window.location.hash || '#';
     const [path, id] = hash.substring(1).split('/');
-
-    console.log(`Navigazione a: path=${path}, id=${id}`);
     
     appContainer.innerHTML = ''; 
 
     switch (path) {
         case 'tasks':
-            if (!id) {
-                window.location.hash = '#'; // Se non c'è ID, torna alla home
-            } else {
-                renderTasksView(appContainer, appState, id);
-            }
+            if (!id) { window.location.hash = '#'; } 
+            else { renderTasksView(appContainer, appState, id); }
             break;
-
-        // Aggiungi qui gli altri 'case' per le future viste. Esempio:
-        /*
-        case 'imprevisti':
-            if (!id) {
-                window.location.hash = '#';
-            } else {
-                renderImprevistiView(appContainer, appState, id);
-            }
+        
+        case 'imprevisti': // <-- NUOVO CASE
+            if (!id) { window.location.hash = '#'; } 
+            else { renderImprevistiView(appContainer, appState, id); }
             break;
-        */
 
         default:
             renderProjectsView(appContainer, appState);
