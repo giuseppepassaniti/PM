@@ -33,12 +33,11 @@ function fetchAndParseCsv(url) {
     });
 }
 
-// La funzione principale che esportiamo
 export async function loadAllData() {
     console.log("Inizio caricamento dati...");
     try {
-        // Carica tutti i file in parallelo per massima efficienza
         const [projects, tasks, imprevisti, varianti, milestones, decisions] = await Promise.all([
+            // ASSICURATI CHE I PERCORSI SIANO QUESTI:
             fetchAndParseCsv('data/progetti.csv'),
             fetchAndParseCsv('data/tasks.csv'),
             fetchAndParseCsv('data/imprevisti.csv'),
