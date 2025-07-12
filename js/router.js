@@ -3,6 +3,7 @@
 // Importiamo le funzioni di rendering da ogni vista.
 // Per ora solo quella dei progetti è reale, le altre le aggiungeremo dopo.
 import { renderProjectsView } from './views/progetti_view.js';
+import { renderTasksView } from './views/tasks_view.js';
 // import { renderTasksView } from './views/tasks_view.js'; // Sblocccheremo queste dopo
 // import { renderImprevistiView } from './views/imprevisti_view.js';
 
