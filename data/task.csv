@@ -1,0 +1,182 @@
+﻿Id Task,ID,Titolo Task,Progetto,Descrizione Task,Owner,Start Date,Deadline,Stato,Criticità,Tempo Stimato,Tempo Effettivo,% Completamento,Produttività Stimata
+1 | Revisione elaborati | PJT-1000,1,Revisione elaborati,PJT-1000,Revisione elaborati per Consegna documentazione cliente,Marco Russo,2/7/2025,31/7/2025,Completato,Media,"9,0","9,0",100%,🟢 Produttivo
+2 | Revisione elaborati | PJT-1000,2,Revisione elaborati,PJT-1000,Revisione elaborati per Progetto esecutivo,Laura Bellini,10/2/2024,24/2/2024,Completato,Alta,"40,0","9,0",100%,🟢 Produttivo
+3 | Analisi tecnica | PJT-1000,3,Analisi tecnica,PJT-1000,Analisi tecnica per Progetto definitivo,Francesca Villa,11/11/2023,1/12/2023,In corso,Alta,"4,0","4,0",80%,🟢 Produttivo
+4 | Verifica normativa | PJT-1000,4,Verifica normativa,PJT-1000,Verifica normativa per Elaborati di fattibilità,Marco Russo,24/7/2025,21/8/2025,In corso,,"39,0","21,0",50%,🟢 Produttivo
+5 | Coordinamento team | PJT-1000,5,Coordinamento team,PJT-1000,Coordinamento team per Progetto definitivo,Giulia Conti,11/11/2023,1/12/2023,Completato,,"35,0","7,0",100%,🟢 Produttivo
+6 | Validazione interna | PJT-1000,6,Validazione interna,PJT-1000,Validazione interna per Progetto definitivo,Marco Russo,11/11/2023,1/12/2023,In corso,Alta,"25,0","25,0",50%,🟢 Produttivo
+7 | Validazione interna | PJT-1000,7,Validazione interna,PJT-1000,Validazione interna per Consegna documentazione cliente,Marco Russo,2/7/2025,31/7/2025,Completato,Bassa,"11,0","11,0",100%,🟢 Produttivo
+8 | Coordinamento team | PJT-1000,8,Coordinamento team,PJT-1000,Coordinamento team per Progetto esecutivo,Francesca Villa,10/2/2024,24/2/2024,In corso,,"4,0","4,0",50%,🟢 Produttivo
+9 | Simulazione impianto | PJT-1000,9,Simulazione impianto,PJT-1000,Simulazione impianto per Progetto definitivo,Daniele Grassi,11/11/2023,1/12/2023,In corso,Alta,"27,0","21,0",80%,🟢 Produttivo
+10 | Coordinamento team | PJT-1000,10,Coordinamento team,PJT-1000,Coordinamento team per Validazione tecnica,Daniele Grassi,17/4/2025,8/5/2025,Completato,Bassa,"34,0","12,0",100%,🟢 Produttivo
+11 | Elaborazione disegni | PJT-1000,11,Elaborazione disegni,PJT-1000,Elaborazione disegni per Chiusura progetto,Francesca Villa,24/7/2025,10/8/2025,In corso,Alta,"34,0","11,0",30%,🟢 Produttivo
+12 | Sopralluogo | PJT-1000,12,Sopralluogo,PJT-1000,Sopralluogo per Progetto esecutivo,Giulia Conti,10/2/2024,24/2/2024,In corso,Alta,"34,0","23,0",50%,🟢 Produttivo
+13 | Gestione cliente | PJT-1000,13,Gestione cliente,PJT-1000,Gestione cliente per Avvio progetto,Giulia Conti,21/7/2025,11/8/2025,In corso,Alta,"20,0","20,0",80%,🟢 Produttivo
+14 | Coordinamento team | PJT-1000,14,Coordinamento team,PJT-1000,Coordinamento team per Elaborati di fattibilità,Giulia Conti,24/7/2025,21/8/2025,In corso,Alta,"30,0","20,0",80%,🟢 Produttivo
+15 | Verifica normativa | PJT-1000,15,Verifica normativa,PJT-1000,Verifica normativa per Rilievi preliminari,Giulia Conti,14/3/2025,9/4/2025,In corso,Media,"18,0","18,0",50%,🟢 Produttivo
+16 | Verifica normativa | PJT-1001,16,Verifica normativa,PJT-1001,Verifica normativa per Avvio progetto,Giulia Conti,7/7/2025,26/7/2025,In corso,,"16,0","11,0",30%,🟢 Produttivo
+17 | Revisione elaborati | PJT-1001,17,Revisione elaborati,PJT-1001,Revisione elaborati per Progetto esecutivo,Giulia Conti,8/6/2025,5/7/2025,Completato,Media,"28,0","6,0",100%,🟢 Produttivo
+18 | Revisione elaborati | PJT-1001,18,Revisione elaborati,PJT-1001,Revisione elaborati per Progetto esecutivo,Giulia Conti,8/6/2025,5/7/2025,In corso,Media,"32,0","10,0",50%,🟢 Produttivo
+19 | Elaborazione disegni | PJT-1001,19,Elaborazione disegni,PJT-1001,Elaborazione disegni per Avvio progetto,Giulia Conti,7/7/2025,26/7/2025,In corso,Bassa,"35,0","15,0",80%,🟢 Produttivo
+20 | Coordinamento team | PJT-1001,20,Coordinamento team,PJT-1001,Coordinamento team per Progetto esecutivo,Marco Russo,8/6/2025,5/7/2025,In corso,,"33,0","20,0",80%,🟢 Produttivo
+21 | Simulazione impianto | PJT-1001,21,Simulazione impianto,PJT-1001,Simulazione impianto per Avvio progetto,Francesca Villa,7/7/2025,26/7/2025,In corso,,"40,0","7,0",80%,🟢 Produttivo
+22 | Coordinamento team | PJT-1001,22,Coordinamento team,PJT-1001,Coordinamento team per Rilievi preliminari,Giulia Conti,12/8/2024,11/9/2024,Completato,Bassa,"28,0","28,0",100%,🟢 Produttivo
+23 | Analisi tecnica | PJT-1001,23,Analisi tecnica,PJT-1001,Analisi tecnica per Progetto definitivo,Alessandro Neri,9/7/2025,3/8/2025,In corso,Bassa,"7,0","7,0",30%,🟢 Produttivo
+24 | Revisione elaborati | PJT-1001,24,Revisione elaborati,PJT-1001,Revisione elaborati per Progetto definitivo,Laura Bellini,9/7/2025,3/8/2025,In corso,Bassa,"6,0","6,0",50%,🟢 Produttivo
+25 | Revisione elaborati | PJT-1001,25,Revisione elaborati,PJT-1001,Revisione elaborati per Validazione tecnica,Alessandro Neri,10/8/2025,22/8/2025,Completato,Media,"39,0","26,0",100%,🟢 Produttivo
+26 | Sopralluogo | PJT-1001,26,Sopralluogo,PJT-1001,Sopralluogo per Consegna documentazione cliente,Laura Bellini,5/7/2024,19/7/2024,In corso,Media,"21,0","12,0",30%,🟢 Produttivo
+27 | Sopralluogo | PJT-1001,27,Sopralluogo,PJT-1001,Sopralluogo per Avvio progetto,Marco Russo,7/7/2025,26/7/2025,In corso,,"31,0","16,0",30%,🟢 Produttivo
+28 | Coordinamento team | PJT-1001,28,Coordinamento team,PJT-1001,Coordinamento team per Validazione tecnica,Daniele Grassi,10/8/2025,22/8/2025,In corso,Alta,"15,0","15,0",80%,🟢 Produttivo
+29 | Simulazione impianto | PJT-1001,29,Simulazione impianto,PJT-1001,Simulazione impianto per Approvazione ente esterno,Francesca Villa,20/1/2025,7/2/2025,In corso,,"8,0","6,0",50%,🟢 Produttivo
+30 | Validazione interna | PJT-1002,30,Validazione interna,PJT-1002,Validazione interna per Progetto esecutivo,Daniele Grassi,17/5/2024,5/6/2024,Pianificato,Media,"9,0","9,0",0%,🟢 Produttivo
+31 | Validazione interna | PJT-1002,31,Validazione interna,PJT-1002,Validazione interna per Validazione tecnica,Alessandro Neri,14/12/2023,4/1/2024,Pianificato,Media,"31,0","17,0",0%,🟢 Produttivo
+32 | Simulazione impianto | PJT-1002,32,Simulazione impianto,PJT-1002,Simulazione impianto per Avvio progetto,Daniele Grassi,20/12/2023,2/1/2024,Pianificato,Media,"18,0","18,0",0%,🟢 Produttivo
+33 | Elaborazione disegni | PJT-1002,33,Elaborazione disegni,PJT-1002,Elaborazione disegni per Rilievi preliminari,Francesca Villa,23/5/2024,21/6/2024,Pianificato,,"38,0","14,0",0%,🟢 Produttivo
+34 | Verifica normativa | PJT-1002,34,Verifica normativa,PJT-1002,Verifica normativa per Progetto esecutivo,Giulia Conti,17/5/2024,5/6/2024,Pianificato,,"4,0","4,0",0%,🟢 Produttivo
+35 | Compilazione documenti | PJT-1002,35,Compilazione documenti,PJT-1002,Compilazione documenti per Consegna documentazione cliente,Daniele Grassi,10/5/2024,27/5/2024,Pianificato,Media,"10,0","7,0",0%,🟢 Produttivo
+36 | Coordinamento team | PJT-1002,36,Coordinamento team,PJT-1002,Coordinamento team per Avvio progetto,Francesca Villa,20/12/2023,2/1/2024,Pianificato,Alta,"38,0","21,0",0%,🟢 Produttivo
+37 | Coordinamento team | PJT-1002,37,Coordinamento team,PJT-1002,Coordinamento team per Validazione tecnica,Alessandro Neri,14/12/2023,4/1/2024,Pianificato,,"24,0","14,0",0%,🟢 Produttivo
+38 | Validazione interna | PJT-1002,38,Validazione interna,PJT-1002,Validazione interna per Elaborati di fattibilità,Francesca Villa,6/3/2024,5/4/2024,Pianificato,,"32,0","9,0",0%,🟢 Produttivo
+39 | Verifica normativa | PJT-1002,39,Verifica normativa,PJT-1002,Verifica normativa per Elaborati di fattibilità,Daniele Grassi,6/3/2024,5/4/2024,Pianificato,Media,"15,0","8,0",0%,🟢 Produttivo
+40 | Elaborazione disegni | PJT-1002,40,Elaborazione disegni,PJT-1002,Elaborazione disegni per Elaborati di fattibilità,Marco Russo,6/3/2024,5/4/2024,Pianificato,,"20,0","16,0",0%,🟢 Produttivo
+41 | Simulazione impianto | PJT-1002,41,Simulazione impianto,PJT-1002,Simulazione impianto per Avvio progetto,Francesca Villa,20/12/2023,2/1/2024,Pianificato,Bassa,"36,0","6,0",0%,🟢 Produttivo
+42 | Verifica normativa | PJT-1002,42,Verifica normativa,PJT-1002,Verifica normativa per Chiusura progetto,Laura Bellini,25/5/2024,5/6/2024,Pianificato,Bassa,"22,0","19,0",0%,🟢 Produttivo
+43 | Revisione elaborati | PJT-1002,43,Revisione elaborati,PJT-1002,Revisione elaborati per Validazione tecnica,Giulia Conti,14/12/2023,4/1/2024,Pianificato,Bassa,"16,0","6,0",0%,🟢 Produttivo
+44 | Validazione interna | PJT-1002,44,Validazione interna,PJT-1002,Validazione interna per Elaborati di fattibilità,Francesca Villa,6/3/2024,5/4/2024,Pianificato,Alta,"18,0","18,0",0%,🟢 Produttivo
+45 | Coordinamento team | PJT-1002,45,Coordinamento team,PJT-1002,Coordinamento team per Chiusura progetto,Daniele Grassi,25/5/2024,5/6/2024,Pianificato,,"22,0","21,0",0%,🟢 Produttivo
+46 | Verifica normativa | PJT-1002,46,Verifica normativa,PJT-1002,Verifica normativa per Rilievi preliminari,Laura Bellini,23/5/2024,21/6/2024,Pianificato,Alta,"37,0","10,0",0%,🟢 Produttivo
+47 | Revisione elaborati | PJT-1002,47,Revisione elaborati,PJT-1002,Revisione elaborati per Avvio progetto,Marco Russo,20/12/2023,2/1/2024,Pianificato,Media,"15,0","13,0",0%,🟢 Produttivo
+48 | Simulazione impianto | PJT-1002,48,Simulazione impianto,PJT-1002,Simulazione impianto per Progetto definitivo,Alessandro Neri,7/4/2024,18/4/2024,Pianificato,Bassa,"15,0","15,0",0%,🟢 Produttivo
+49 | Coordinamento team | PJT-1002,49,Coordinamento team,PJT-1002,Coordinamento team per Rilievi preliminari,Francesca Villa,23/5/2024,21/6/2024,Pianificato,,"7,0","7,0",0%,🟢 Produttivo
+50 | Verifica normativa | PJT-1003,50,Verifica normativa,PJT-1003,Verifica normativa per Approvazione ente esterno,Laura Bellini,2/2/2025,14/2/2025,Completato,Alta,"27,0","11,0",100%,🟢 Produttivo
+51 | Simulazione impianto | PJT-1003,51,Simulazione impianto,PJT-1003,Simulazione impianto per Consegna documentazione cliente,Francesca Villa,27/9/2024,26/10/2024,In corso,Alta,"39,0","17,0",80%,🟢 Produttivo
+52 | Compilazione documenti | PJT-1003,52,Compilazione documenti,PJT-1003,Compilazione documenti per Consegna documentazione cliente,Alessandro Neri,27/9/2024,26/10/2024,In corso,Media,"11,0","10,0",30%,🟢 Produttivo
+53 | Validazione interna | PJT-1003,53,Validazione interna,PJT-1003,Validazione interna per Validazione tecnica,Marco Russo,17/7/2025,1/8/2025,In corso,Bassa,"19,0","19,0",30%,🟢 Produttivo
+54 | Verifica normativa | PJT-1003,54,Verifica normativa,PJT-1003,Verifica normativa per Consegna documentazione cliente,Daniele Grassi,27/9/2024,26/10/2024,Completato,Bassa,"17,0","17,0",100%,🟢 Produttivo
+55 | Verifica normativa | PJT-1003,55,Verifica normativa,PJT-1003,Verifica normativa per Elaborati di fattibilità,Daniele Grassi,3/3/2024,30/3/2024,In corso,Media,"30,0","11,0",80%,🟢 Produttivo
+56 | Verifica normativa | PJT-1003,56,Verifica normativa,PJT-1003,Verifica normativa per Consegna documentazione cliente,Marco Russo,27/9/2024,26/10/2024,In corso,,"20,0","11,0",50%,🟢 Produttivo
+57 | Revisione elaborati | PJT-1003,57,Revisione elaborati,PJT-1003,Revisione elaborati per Validazione tecnica,Marco Russo,17/7/2025,1/8/2025,In corso,Alta,"34,0","13,0",80%,🟢 Produttivo
+58 | Simulazione impianto | PJT-1003,58,Simulazione impianto,PJT-1003,Simulazione impianto per Chiusura progetto,Alessandro Neri,12/7/2025,27/7/2025,In corso,Media,"13,0","13,0",80%,🟢 Produttivo
+59 | Validazione interna | PJT-1003,59,Validazione interna,PJT-1003,Validazione interna per Progetto esecutivo,Laura Bellini,19/7/2025,5/8/2025,In corso,Alta,"19,0","19,0",30%,🟢 Produttivo
+60 | Verifica normativa | PJT-1003,60,Verifica normativa,PJT-1003,Verifica normativa per Consegna documentazione cliente,Francesca Villa,27/9/2024,26/10/2024,Completato,Alta,"37,0","12,0",100%,🟢 Produttivo
+61 | Revisione elaborati | PJT-1003,61,Revisione elaborati,PJT-1003,Revisione elaborati per Consegna documentazione cliente,Daniele Grassi,27/9/2024,26/10/2024,In corso,Media,"8,0","7,0",30%,🟢 Produttivo
+62 | Verifica normativa | PJT-1003,62,Verifica normativa,PJT-1003,Verifica normativa per Validazione tecnica,Francesca Villa,17/7/2025,1/8/2025,In corso,Alta,"15,0","11,0",30%,🟢 Produttivo
+63 | Analisi tecnica | PJT-1003,63,Analisi tecnica,PJT-1003,Analisi tecnica per Rilievi preliminari,Laura Bellini,22/5/2024,19/6/2024,In corso,Bassa,"21,0","20,0",30%,🟢 Produttivo
+64 | Verifica normativa | PJT-1003,64,Verifica normativa,PJT-1003,Verifica normativa per Elaborati di fattibilità,Francesca Villa,3/3/2024,30/3/2024,Completato,Alta,"28,0","15,0",100%,🟢 Produttivo
+65 | Compilazione documenti | PJT-1003,65,Compilazione documenti,PJT-1003,Compilazione documenti per Progetto esecutivo,Francesca Villa,19/7/2025,5/8/2025,In corso,Alta,"34,0","4,0",50%,🟢 Produttivo
+66 | Gestione cliente | PJT-1004,66,Gestione cliente,PJT-1004,Gestione cliente per Elaborati di fattibilità,Alessandro Neri,9/3/2025,1/4/2025,In corso,Bassa,"31,0","21,0",80%,🟢 Produttivo
+67 | Elaborazione disegni | PJT-1004,67,Elaborazione disegni,PJT-1004,Elaborazione disegni per Progetto esecutivo,Marco Russo,23/10/2024,2/11/2024,In corso,,"31,0","6,0",50%,🟢 Produttivo
+68 | Compilazione documenti | PJT-1004,68,Compilazione documenti,PJT-1004,Compilazione documenti per Progetto definitivo,Daniele Grassi,26/4/2025,11/5/2025,In corso,Media,"36,0","13,0",50%,🟢 Produttivo
+69 | Compilazione documenti | PJT-1004,69,Compilazione documenti,PJT-1004,Compilazione documenti per Progetto definitivo,Francesca Villa,26/4/2025,11/5/2025,In corso,,"15,0","14,0",50%,🟢 Produttivo
+70 | Coordinamento team | PJT-1004,70,Coordinamento team,PJT-1004,Coordinamento team per Progetto esecutivo,Francesca Villa,23/10/2024,2/11/2024,In corso,Media,"16,0","16,0",50%,🟢 Produttivo
+71 | Coordinamento team | PJT-1004,71,Coordinamento team,PJT-1004,Coordinamento team per Progetto esecutivo,Alessandro Neri,23/10/2024,2/11/2024,Completato,Media,"9,0","9,0",100%,🟢 Produttivo
+72 | Compilazione documenti | PJT-1004,72,Compilazione documenti,PJT-1004,Compilazione documenti per Progetto esecutivo,Alessandro Neri,23/10/2024,2/11/2024,In corso,Bassa,"17,0","11,0",50%,🟢 Produttivo
+73 | Verifica normativa | PJT-1004,73,Verifica normativa,PJT-1004,Verifica normativa per Progetto definitivo,Alessandro Neri,26/4/2025,11/5/2025,Completato,Alta,"10,0","10,0",100%,🟢 Produttivo
+74 | Elaborazione disegni | PJT-1004,74,Elaborazione disegni,PJT-1004,Elaborazione disegni per Rilievi preliminari,Giulia Conti,24/7/2025,12/8/2025,In corso,,"40,0","26,0",50%,🟢 Produttivo
+75 | Coordinamento team | PJT-1004,75,Coordinamento team,PJT-1004,Coordinamento team per Elaborati di fattibilità,Marco Russo,9/3/2025,1/4/2025,In corso,Bassa,"23,0","21,0",30%,🟢 Produttivo
+76 | Validazione interna | PJT-1004,76,Validazione interna,PJT-1004,Validazione interna per Rilievi preliminari,Laura Bellini,24/7/2025,12/8/2025,In corso,,"16,0","16,0",50%,🟢 Produttivo
+77 | Analisi tecnica | PJT-1004,77,Analisi tecnica,PJT-1004,Analisi tecnica per Rilievi preliminari,Francesca Villa,24/7/2025,12/8/2025,In corso,Alta,"36,0","12,0",30%,🟢 Produttivo
+78 | Revisione elaborati | PJT-1005,78,Revisione elaborati,PJT-1005,Revisione elaborati per Progetto definitivo,Daniele Grassi,9/11/2024,1/12/2024,Completato,Bassa,"4,0","4,0",100%,🟢 Produttivo
+79 | Gestione cliente | PJT-1005,79,Gestione cliente,PJT-1005,Gestione cliente per Approvazione ente esterno,Giulia Conti,15/12/2025,4/1/2026,In corso,Alta,"15,0","15,0",50%,🟢 Produttivo
+80 | Gestione cliente | PJT-1005,80,Gestione cliente,PJT-1005,Gestione cliente per Approvazione ente esterno,Francesca Villa,15/12/2025,4/1/2026,Completato,Alta,"18,0","18,0",100%,🟢 Produttivo
+81 | Analisi tecnica | PJT-1005,81,Analisi tecnica,PJT-1005,Analisi tecnica per Approvazione ente esterno,Francesca Villa,15/12/2025,4/1/2026,In corso,,"27,0","7,0",50%,🟢 Produttivo
+82 | Sopralluogo | PJT-1005,82,Sopralluogo,PJT-1005,Sopralluogo per Approvazione ente esterno,Laura Bellini,15/12/2025,4/1/2026,In corso,Media,"7,0","7,0",80%,🟢 Produttivo
+83 | Coordinamento team | PJT-1005,83,Coordinamento team,PJT-1005,Coordinamento team per Progetto esecutivo,Francesca Villa,5/7/2025,19/7/2025,In corso,Media,"10,0","10,0",50%,🟢 Produttivo
+84 | Simulazione impianto | PJT-1005,84,Simulazione impianto,PJT-1005,Simulazione impianto per Progetto esecutivo,Alessandro Neri,5/7/2025,19/7/2025,In corso,Media,"26,0","26,0",80%,🟢 Produttivo
+85 | Analisi tecnica | PJT-1005,85,Analisi tecnica,PJT-1005,Analisi tecnica per Progetto definitivo,Alessandro Neri,9/11/2024,1/12/2024,In corso,Media,"7,0","7,0",80%,🟢 Produttivo
+86 | Elaborazione disegni | PJT-1005,86,Elaborazione disegni,PJT-1005,Elaborazione disegni per Progetto definitivo,Francesca Villa,9/11/2024,1/12/2024,In corso,Media,"23,0","16,0",50%,🟢 Produttivo
+87 | Sopralluogo | PJT-1005,87,Sopralluogo,PJT-1005,Sopralluogo per Progetto definitivo,Francesca Villa,9/11/2024,1/12/2024,Completato,Alta,"33,0","9,0",100%,🟢 Produttivo
+88 | Gestione cliente | PJT-1005,88,Gestione cliente,PJT-1005,Gestione cliente per Progetto definitivo,Alessandro Neri,9/11/2024,1/12/2024,In corso,Bassa,"32,0","10,0",30%,🟢 Produttivo
+89 | Sopralluogo | PJT-1005,89,Sopralluogo,PJT-1005,Sopralluogo per Approvazione ente esterno,Giulia Conti,15/12/2025,4/1/2026,Completato,Bassa,"23,0","23,0",100%,🟢 Produttivo
+90 | Simulazione impianto | PJT-1005,90,Simulazione impianto,PJT-1005,Simulazione impianto per Chiusura progetto,Francesca Villa,31/12/2024,20/1/2025,In corso,Media,"16,0","16,0",30%,🟢 Produttivo
+91 | Revisione elaborati | PJT-1006,91,Revisione elaborati,PJT-1006,Revisione elaborati per Avvio progetto,Giulia Conti,9/2/2024,8/3/2024,Completato,Bassa,"28,0","28,0",100%,🟢 Produttivo
+92 | Revisione elaborati | PJT-1006,92,Revisione elaborati,PJT-1006,Revisione elaborati per Approvazione ente esterno,Marco Russo,4/1/2025,25/1/2025,In corso,Alta,"32,0","5,0",80%,🟢 Produttivo
+93 | Revisione elaborati | PJT-1006,93,Revisione elaborati,PJT-1006,Revisione elaborati per Chiusura progetto,Marco Russo,15/8/2024,1/9/2024,In corso,,"9,0","9,0",80%,🟢 Produttivo
+94 | Simulazione impianto | PJT-1006,94,Simulazione impianto,PJT-1006,Simulazione impianto per Chiusura progetto,Alessandro Neri,15/8/2024,1/9/2024,In corso,,"38,0","24,0",80%,🟢 Produttivo
+95 | Sopralluogo | PJT-1006,95,Sopralluogo,PJT-1006,Sopralluogo per Chiusura progetto,Daniele Grassi,15/8/2024,1/9/2024,In corso,Media,"16,0","16,0",50%,🟢 Produttivo
+96 | Simulazione impianto | PJT-1006,96,Simulazione impianto,PJT-1006,Simulazione impianto per Consegna documentazione cliente,Daniele Grassi,24/7/2025,21/8/2025,In corso,Alta,"6,0","5,0",80%,🟢 Produttivo
+97 | Revisione elaborati | PJT-1006,97,Revisione elaborati,PJT-1006,Revisione elaborati per Rilievi preliminari,Alessandro Neri,6/7/2025,28/7/2025,In corso,,"15,0","15,0",50%,🟢 Produttivo
+98 | Compilazione documenti | PJT-1006,98,Compilazione documenti,PJT-1006,Compilazione documenti per Consegna documentazione cliente,Giulia Conti,24/7/2025,21/8/2025,In corso,Alta,"23,0","14,0",30%,🟢 Produttivo
+99 | Compilazione documenti | PJT-1006,99,Compilazione documenti,PJT-1006,Compilazione documenti per Approvazione ente esterno,Francesca Villa,4/1/2025,25/1/2025,Completato,Alta,"24,0","10,0",100%,🟢 Produttivo
+100 | Gestione cliente | PJT-1006,100,Gestione cliente,PJT-1006,Gestione cliente per Consegna documentazione cliente,Daniele Grassi,24/7/2025,21/8/2025,In corso,Alta,"20,0","8,0",50%,🟢 Produttivo
+101 | Gestione cliente | PJT-1006,101,Gestione cliente,PJT-1006,Gestione cliente per Consegna documentazione cliente,Daniele Grassi,24/7/2025,21/8/2025,Completato,Media,"15,0","14,0",100%,🟢 Produttivo
+102 | Elaborazione disegni | PJT-1006,102,Elaborazione disegni,PJT-1006,Elaborazione disegni per Avvio progetto,Giulia Conti,9/2/2024,8/3/2024,In corso,,"32,0","16,0",80%,🟢 Produttivo
+103 | Sopralluogo | PJT-1006,103,Sopralluogo,PJT-1006,Sopralluogo per Consegna documentazione cliente,Marco Russo,24/7/2025,21/8/2025,In corso,Alta,"24,0","7,0",50%,🟢 Produttivo
+104 | Validazione interna | PJT-1006,104,Validazione interna,PJT-1006,Validazione interna per Consegna documentazione cliente,Daniele Grassi,24/7/2025,21/8/2025,In corso,Media,"32,0","18,0",30%,🟢 Produttivo
+105 | Revisione elaborati | PJT-1006,105,Revisione elaborati,PJT-1006,Revisione elaborati per Chiusura progetto,Giulia Conti,15/8/2024,1/9/2024,In corso,Media,"33,0","14,0",50%,🟢 Produttivo
+106 | Verifica normativa | PJT-1006,106,Verifica normativa,PJT-1006,Verifica normativa per Avvio progetto,Alessandro Neri,9/2/2024,8/3/2024,In corso,Bassa,"6,0","6,0",80%,🟢 Produttivo
+107 | Simulazione impianto | PJT-1006,107,Simulazione impianto,PJT-1006,Simulazione impianto per Approvazione ente esterno,Giulia Conti,4/1/2025,25/1/2025,In corso,,"26,0","18,0",30%,🟢 Produttivo
+108 | Gestione cliente | PJT-1006,108,Gestione cliente,PJT-1006,Gestione cliente per Avvio progetto,Daniele Grassi,9/2/2024,8/3/2024,In corso,,"19,0","19,0",30%,🟢 Produttivo
+109 | Coordinamento team | PJT-1006,109,Coordinamento team,PJT-1006,Coordinamento team per Rilievi preliminari,Daniele Grassi,6/7/2025,28/7/2025,In corso,Media,"15,0","14,0",50%,🟢 Produttivo
+110 | Verifica normativa | PJT-1006,110,Verifica normativa,PJT-1006,Verifica normativa per Chiusura progetto,Alessandro Neri,15/8/2024,1/9/2024,Completato,Media,"11,0","8,0",100%,🟢 Produttivo
+111 | Simulazione impianto | PJT-1007,111,Simulazione impianto,PJT-1007,Simulazione impianto per Validazione tecnica,Marco Russo,30/4/2025,19/5/2025,Pianificato,,"4,0","4,0",0%,🟢 Produttivo
+112 | Simulazione impianto | PJT-1007,112,Simulazione impianto,PJT-1007,Simulazione impianto per Avvio progetto,Alessandro Neri,25/5/2024,22/6/2024,Pianificato,Media,"21,0","11,0",0%,🟢 Produttivo
+113 | Sopralluogo | PJT-1007,113,Sopralluogo,PJT-1007,Sopralluogo per Approvazione ente esterno,Daniele Grassi,19/11/2023,30/11/2023,Pianificato,Alta,"21,0","9,0",0%,🟢 Produttivo
+114 | Verifica normativa | PJT-1007,114,Verifica normativa,PJT-1007,Verifica normativa per Avvio progetto,Alessandro Neri,25/5/2024,22/6/2024,Pianificato,,"10,0","10,0",0%,🟢 Produttivo
+115 | Verifica normativa | PJT-1007,115,Verifica normativa,PJT-1007,Verifica normativa per Avvio progetto,Laura Bellini,25/5/2024,22/6/2024,Pianificato,Media,"16,0","10,0",0%,🟢 Produttivo
+116 | Elaborazione disegni | PJT-1007,116,Elaborazione disegni,PJT-1007,Elaborazione disegni per Progetto esecutivo,Alessandro Neri,20/10/2023,7/11/2023,Pianificato,Bassa,"19,0","18,0",0%,🟢 Produttivo
+117 | Compilazione documenti | PJT-1007,117,Compilazione documenti,PJT-1007,Compilazione documenti per Avvio progetto,Giulia Conti,25/5/2024,22/6/2024,Pianificato,Bassa,"8,0","8,0",0%,🟢 Produttivo
+118 | Compilazione documenti | PJT-1007,118,Compilazione documenti,PJT-1007,Compilazione documenti per Progetto esecutivo,Francesca Villa,20/10/2023,7/11/2023,Pianificato,Alta,"21,0","21,0",0%,🟢 Produttivo
+119 | Verifica normativa | PJT-1007,119,Verifica normativa,PJT-1007,Verifica normativa per Validazione tecnica,Laura Bellini,30/4/2025,19/5/2025,Pianificato,Alta,"40,0","21,0",0%,🟢 Produttivo
+120 | Coordinamento team | PJT-1007,120,Coordinamento team,PJT-1007,Coordinamento team per Elaborati di fattibilità,Daniele Grassi,9/2/2024,6/3/2024,Pianificato,Bassa,"27,0","21,0",0%,🟢 Produttivo
+121 | Analisi tecnica | PJT-1007,121,Analisi tecnica,PJT-1007,Analisi tecnica per Consegna documentazione cliente,Giulia Conti,23/5/2024,6/6/2024,Pianificato,,"39,0","9,0",0%,🟢 Produttivo
+122 | Compilazione documenti | PJT-1007,122,Compilazione documenti,PJT-1007,Compilazione documenti per Elaborati di fattibilità,Alessandro Neri,9/2/2024,6/3/2024,Pianificato,,"20,0","14,0",0%,🟢 Produttivo
+123 | Gestione cliente | PJT-1008,123,Gestione cliente,PJT-1008,Gestione cliente per Consegna documentazione cliente,Giulia Conti,30/6/2024,24/7/2024,Completato,Alta,"39,0","19,0",100%,🟢 Produttivo
+124 | Elaborazione disegni | PJT-1008,124,Elaborazione disegni,PJT-1008,Elaborazione disegni per Approvazione ente esterno,Giulia Conti,1/5/2024,13/5/2024,Completato,Media,"37,0","28,0",100%,🟢 Produttivo
+125 | Verifica normativa | PJT-1008,125,Verifica normativa,PJT-1008,Verifica normativa per Rilievi preliminari,Giulia Conti,16/5/2024,15/6/2024,Completato,Media,"13,0","9,0",100%,🟢 Produttivo
+126 | Verifica normativa | PJT-1008,126,Verifica normativa,PJT-1008,Verifica normativa per Consegna documentazione cliente,Giulia Conti,30/6/2024,24/7/2024,Completato,Bassa,"8,0","4,0",100%,🟢 Produttivo
+127 | Sopralluogo | PJT-1008,127,Sopralluogo,PJT-1008,Sopralluogo per Consegna documentazione cliente,Daniele Grassi,30/6/2024,24/7/2024,Completato,Media,"17,0","9,0",100%,🟢 Produttivo
+128 | Gestione cliente | PJT-1008,128,Gestione cliente,PJT-1008,Gestione cliente per Approvazione ente esterno,Francesca Villa,1/5/2024,13/5/2024,Completato,Media,"6,0","6,0",100%,🟢 Produttivo
+129 | Coordinamento team | PJT-1008,129,Coordinamento team,PJT-1008,Coordinamento team per Consegna documentazione cliente,Daniele Grassi,30/6/2024,24/7/2024,Completato,Media,"12,0","12,0",100%,🟢 Produttivo
+130 | Gestione cliente | PJT-1008,130,Gestione cliente,PJT-1008,Gestione cliente per Consegna documentazione cliente,Daniele Grassi,30/6/2024,24/7/2024,Completato,Bassa,"40,0","17,0",100%,🟢 Produttivo
+131 | Analisi tecnica | PJT-1008,131,Analisi tecnica,PJT-1008,Analisi tecnica per Approvazione ente esterno,Marco Russo,1/5/2024,13/5/2024,Completato,,"7,0","7,0",100%,🟢 Produttivo
+132 | Sopralluogo | PJT-1008,132,Sopralluogo,PJT-1008,Sopralluogo per Consegna documentazione cliente,Alessandro Neri,30/6/2024,24/7/2024,Completato,Bassa,"37,0","19,0",100%,🟢 Produttivo
+133 | Coordinamento team | PJT-1008,133,Coordinamento team,PJT-1008,Coordinamento team per Rilievi preliminari,Giulia Conti,16/5/2024,15/6/2024,Completato,Media,"35,0","23,0",100%,🟢 Produttivo
+134 | Simulazione impianto | PJT-1008,134,Simulazione impianto,PJT-1008,Simulazione impianto per Rilievi preliminari,Daniele Grassi,16/5/2024,15/6/2024,Completato,,"8,0","8,0",100%,🟢 Produttivo
+135 | Sopralluogo | PJT-1008,135,Sopralluogo,PJT-1008,Sopralluogo per Approvazione ente esterno,Marco Russo,1/5/2024,13/5/2024,Completato,Alta,"28,0","13,0",100%,🟢 Produttivo
+136 | Gestione cliente | PJT-1008,136,Gestione cliente,PJT-1008,Gestione cliente per Progetto definitivo,Daniele Grassi,29/3/2024,12/4/2024,Completato,,"4,0","4,0",100%,🟢 Produttivo
+137 | Gestione cliente | PJT-1009,137,Gestione cliente,PJT-1009,Gestione cliente per Approvazione ente esterno,Marco Russo,4/11/2023,25/11/2023,Completato,,"11,0","11,0",100%,🟢 Produttivo
+138 | Elaborazione disegni | PJT-1009,138,Elaborazione disegni,PJT-1009,Elaborazione disegni per Rilievi preliminari,Daniele Grassi,6/12/2023,3/1/2024,Completato,Bassa,"4,0","4,0",100%,🟢 Produttivo
+139 | Gestione cliente | PJT-1009,139,Gestione cliente,PJT-1009,Gestione cliente per Elaborati di fattibilità,Alessandro Neri,4/10/2023,28/10/2023,Completato,,"5,0","5,0",100%,🟢 Produttivo
+140 | Sopralluogo | PJT-1009,140,Sopralluogo,PJT-1009,Sopralluogo per Chiusura progetto,Alessandro Neri,17/1/2024,2/2/2024,Completato,Media,"8,0","8,0",100%,🟢 Produttivo
+141 | Sopralluogo | PJT-1009,141,Sopralluogo,PJT-1009,Sopralluogo per Progetto definitivo,Alessandro Neri,28/10/2023,24/11/2023,Completato,Bassa,"8,0","5,0",100%,🟢 Produttivo
+142 | Gestione cliente | PJT-1009,142,Gestione cliente,PJT-1009,Gestione cliente per Elaborati di fattibilità,Marco Russo,4/10/2023,28/10/2023,Completato,Alta,"33,0","22,0",100%,🟢 Produttivo
+143 | Elaborazione disegni | PJT-1009,143,Elaborazione disegni,PJT-1009,Elaborazione disegni per Validazione tecnica,Alessandro Neri,1/9/2023,17/9/2023,Completato,Bassa,"33,0","13,0",100%,🟢 Produttivo
+144 | Compilazione documenti | PJT-1009,144,Compilazione documenti,PJT-1009,Compilazione documenti per Validazione tecnica,Alessandro Neri,1/9/2023,17/9/2023,Completato,Alta,"4,0","4,0",100%,🟢 Produttivo
+145 | Coordinamento team | PJT-1009,145,Coordinamento team,PJT-1009,Coordinamento team per Progetto esecutivo,Marco Russo,5/2/2024,23/2/2024,Completato,Bassa,"21,0","8,0",100%,🟢 Produttivo
+146 | Simulazione impianto | PJT-1009,146,Simulazione impianto,PJT-1009,Simulazione impianto per Progetto esecutivo,Francesca Villa,5/2/2024,23/2/2024,Completato,Media,"40,0","20,0",100%,🟢 Produttivo
+147 | Revisione elaborati | PJT-1009,147,Revisione elaborati,PJT-1009,Revisione elaborati per Approvazione ente esterno,Daniele Grassi,4/11/2023,25/11/2023,Completato,Media,"28,0","15,0",100%,🟢 Produttivo
+148 | Gestione cliente | PJT-1009,148,Gestione cliente,PJT-1009,Gestione cliente per Chiusura progetto,Giulia Conti,17/1/2024,2/2/2024,Completato,Media,"35,0","21,0",100%,🟢 Produttivo
+149 | Analisi tecnica | PJT-1009,149,Analisi tecnica,PJT-1009,Analisi tecnica per Approvazione ente esterno,Marco Russo,4/11/2023,25/11/2023,Completato,Media,"33,0","18,0",100%,🟢 Produttivo
+150 | Simulazione impianto | PJT-1009,150,Simulazione impianto,PJT-1009,Simulazione impianto per Consegna documentazione cliente,Francesca Villa,24/1/2024,3/2/2024,Completato,Bassa,"14,0","14,0",100%,🟢 Produttivo
+151 | Validazione interna | PJT-1009,151,Validazione interna,PJT-1009,Validazione interna per Consegna documentazione cliente,Francesca Villa,24/1/2024,3/2/2024,Completato,Bassa,"25,0","19,0",100%,🟢 Produttivo
+152 | Validazione interna | PJT-1010,152,Validazione interna,PJT-1010,Validazione interna per Validazione tecnica,Francesca Villa,26/6/2025,21/7/2025,In corso,Alta,"5,0","5,0",80%,🟢 Produttivo
+153 | Compilazione documenti | PJT-1010,153,Compilazione documenti,PJT-1010,Compilazione documenti per Approvazione ente esterno,Laura Bellini,9/4/2025,3/5/2025,Completato,,"28,0","19,0",100%,🟢 Produttivo
+154 | Gestione cliente | PJT-1010,154,Gestione cliente,PJT-1010,Gestione cliente per Avvio progetto,Laura Bellini,9/3/2025,22/3/2025,Completato,Media,"40,0","17,0",100%,🟢 Produttivo
+155 | Revisione elaborati | PJT-1010,155,Revisione elaborati,PJT-1010,Revisione elaborati per Progetto definitivo,Marco Russo,29/3/2025,19/4/2025,In corso,Media,"29,0","19,0",30%,🟢 Produttivo
+156 | Gestione cliente | PJT-1010,156,Gestione cliente,PJT-1010,Gestione cliente per Chiusura progetto,Laura Bellini,4/7/2025,19/7/2025,In corso,Alta,"11,0","3,0",80%,🟢 Produttivo
+157 | Elaborazione disegni | PJT-1010,157,Elaborazione disegni,PJT-1010,Elaborazione disegni per Progetto definitivo,Giulia Conti,29/3/2025,19/4/2025,In corso,Media,"38,0","26,0",50%,🟢 Produttivo
+158 | Simulazione impianto | PJT-1010,158,Simulazione impianto,PJT-1010,Simulazione impianto per Validazione tecnica,Giulia Conti,26/6/2025,21/7/2025,Completato,Bassa,"9,0","9,0",100%,🟢 Produttivo
+159 | Simulazione impianto | PJT-1010,159,Simulazione impianto,PJT-1010,Simulazione impianto per Validazione tecnica,Francesca Villa,26/6/2025,21/7/2025,In corso,Media,"35,0","15,0",50%,🟢 Produttivo
+160 | Elaborazione disegni | PJT-1010,160,Elaborazione disegni,PJT-1010,Elaborazione disegni per Progetto definitivo,Laura Bellini,29/3/2025,19/4/2025,In corso,,"30,0","17,0",30%,🟢 Produttivo
+161 | Analisi tecnica | PJT-1010,161,Analisi tecnica,PJT-1010,Analisi tecnica per Elaborati di fattibilità,Giulia Conti,24/11/2024,22/12/2024,In corso,,"7,0","7,0",80%,🟢 Produttivo
+162 | Gestione cliente | PJT-1010,162,Gestione cliente,PJT-1010,Gestione cliente per Approvazione ente esterno,Alessandro Neri,9/4/2025,3/5/2025,In corso,Alta,"13,0","7,0",80%,🟢 Produttivo
+163 | Validazione interna | PJT-1010,163,Validazione interna,PJT-1010,Validazione interna per Chiusura progetto,Laura Bellini,4/7/2025,19/7/2025,In corso,Alta,"8,0","8,0",30%,🟢 Produttivo
+164 | Gestione cliente | PJT-1011,164,Gestione cliente,PJT-1011,Gestione cliente per Progetto definitivo,Francesca Villa,16/6/2023,27/6/2023,Completato,Bassa,"37,0","17,0",100%,🟢 Produttivo
+165 | Validazione interna | PJT-1011,165,Validazione interna,PJT-1011,Validazione interna per Rilievi preliminari,Laura Bellini,28/2/2024,25/3/2024,Completato,,"37,0","16,0",100%,🟢 Produttivo
+166 | Revisione elaborati | PJT-1011,166,Revisione elaborati,PJT-1011,Revisione elaborati per Chiusura progetto,Daniele Grassi,9/5/2023,28/5/2023,Completato,,"31,0","19,0",100%,🟢 Produttivo
+167 | Analisi tecnica | PJT-1011,167,Analisi tecnica,PJT-1011,Analisi tecnica per Chiusura progetto,Laura Bellini,9/5/2023,28/5/2023,Completato,Bassa,"28,0","18,0",100%,🟢 Produttivo
+168 | Elaborazione disegni | PJT-1011,168,Elaborazione disegni,PJT-1011,Elaborazione disegni per Progetto esecutivo,Francesca Villa,3/8/2023,13/8/2023,Completato,Bassa,"9,0","5,0",100%,🟢 Produttivo
+169 | Coordinamento team | PJT-1011,169,Coordinamento team,PJT-1011,Coordinamento team per Avvio progetto,Marco Russo,1/9/2023,21/9/2023,Completato,Media,"20,0","18,0",100%,🟢 Produttivo
+170 | Validazione interna | PJT-1011,170,Validazione interna,PJT-1011,Validazione interna per Progetto esecutivo,Giulia Conti,3/8/2023,13/8/2023,Completato,Alta,"20,0","18,0",100%,🟢 Produttivo
+171 | Verifica normativa | PJT-1011,171,Verifica normativa,PJT-1011,Verifica normativa per Consegna documentazione cliente,Francesca Villa,5/11/2023,20/11/2023,Completato,Media,"29,0","9,0",100%,🟢 Produttivo
+172 | Compilazione documenti | PJT-1011,172,Compilazione documenti,PJT-1011,Compilazione documenti per Progetto definitivo,Francesca Villa,16/6/2023,27/6/2023,Completato,Media,"39,0","14,0",100%,🟢 Produttivo
+173 | Validazione interna | PJT-1011,173,Validazione interna,PJT-1011,Validazione interna per Elaborati di fattibilità,Laura Bellini,1/3/2024,25/3/2024,Completato,Media,"13,0","10,0",100%,🟢 Produttivo
+174 | Coordinamento team | PJT-1011,174,Coordinamento team,PJT-1011,Coordinamento team per Approvazione ente esterno,Daniele Grassi,2/10/2023,1/11/2023,Completato,Media,"32,0","10,0",100%,🟢 Produttivo
+175 | Simulazione impianto | PJT-1011,175,Simulazione impianto,PJT-1011,Simulazione impianto per Avvio progetto,Laura Bellini,1/9/2023,21/9/2023,Completato,Alta,"32,0","18,0",100%,🟢 Produttivo
+176 | Compilazione documenti | PJT-1011,176,Compilazione documenti,PJT-1011,Compilazione documenti per Avvio progetto,Daniele Grassi,1/9/2023,21/9/2023,Completato,Bassa,"5,0","3,0",100%,🟢 Produttivo
+177 | Analisi tecnica | PJT-1011,177,Analisi tecnica,PJT-1011,Analisi tecnica per Chiusura progetto,Marco Russo,9/5/2023,28/5/2023,Completato,Bassa,"13,0","13,0",100%,🟢 Produttivo
+178 | Simulazione impianto | PJT-1011,178,Simulazione impianto,PJT-1011,Simulazione impianto per Progetto definitivo,Marco Russo,16/6/2023,27/6/2023,Completato,,"5,0","5,0",100%,🟢 Produttivo
+179 | Compilazione documenti | PJT-1011,179,Compilazione documenti,PJT-1011,Compilazione documenti per Approvazione ente esterno,Giulia Conti,2/10/2023,1/11/2023,Completato,Media,"28,0","20,0",100%,🟢 Produttivo
+180 | Verifica normativa | PJT-1011,180,Verifica normativa,PJT-1011,Verifica normativa per Approvazione ente esterno,Laura Bellini,2/10/2023,1/11/2023,Completato,Bassa,"20,0","20,0",100%,🟢 Produttivo
+181 | Validazione interna | PJT-1011,181,Validazione interna,PJT-1011,Validazione interna per Progetto esecutivo,Marco Russo,3/8/2023,13/8/2023,Completato,Media,"39,0","34,0",100%,🟢 Produttivo

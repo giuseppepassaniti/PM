@@ -1,0 +1,166 @@
+﻿Variante,Progetto,Data Variante,Descrizione Variante,Impatto Tempi (in giorni),Impatto Costi,Stato
+"
+Modifica per tempistiche
+",PJT-1000,25/8/2024,"
+In seguito all’imprevisto 'Tempistiche' (ritardo consegna) rilevato nel progetto Linea Alta Tensione Nord-Est, è stata proposta una variante correttiva.
+","19,0","€38583,00",Rifiutata
+"
+Modifica per tempistiche
+",PJT-1000,22/5/2024,"
+In seguito all’imprevisto 'Tempistiche' (ritardo consegna) rilevato nel progetto Linea Alta Tensione Nord-Est, è stata proposta una variante correttiva.
+","22,0","€0,00",Rifiutata
+"
+Modifica per cliente
+",PJT-1001,13/7/2024,"
+In seguito all’imprevisto 'Cliente' (sforamento costi) rilevato nel progetto Raddoppio Linea AV Milano–Brescia, è stata proposta una variante correttiva.
+","3,0","€11141,00",In valutazione
+"
+Modifica per cliente
+",PJT-1001,7/5/2025,"
+In seguito all’imprevisto 'Cliente' (ritardo consegna) rilevato nel progetto Raddoppio Linea AV Milano–Brescia, è stata proposta una variante correttiva.
+","22,0","€0,00",Approvata
+"
+Modifica per risorse interne
+",PJT-1002,5/1/2024,"
+In seguito all’imprevisto 'Risorse interne' (sforamento costi) rilevato nel progetto Impianto Fotovoltaico Sicilia Ovest, è stata proposta una variante correttiva.
+","-3,0","€17709,00",In valutazione
+"
+Modifica per tempistiche
+",PJT-1002,26/11/2023,"
+In seguito all’imprevisto 'Tempistiche' (ritardo consegna) rilevato nel progetto Impianto Fotovoltaico Sicilia Ovest, è stata proposta una variante correttiva.
+","30,0","-€23363,00",Approvata
+"
+Modifica per tempistiche
+",PJT-1002,26/3/2024,"
+In seguito all’imprevisto 'Tempistiche' (sforamento costi) rilevato nel progetto Impianto Fotovoltaico Sicilia Ovest, è stata proposta una variante correttiva.
+","15,0","€33651,00",Rifiutata
+"
+Modifica per errore tecnico
+",PJT-1003,11/2/2025,"
+In seguito all’imprevisto 'Errore tecnico' (ritardo consegna) rilevato nel progetto Interconnessione Rete Gas Appennino, è stata proposta una variante correttiva.
+","27,0","-€7613,00",Rifiutata
+"
+Modifica per tempistiche
+",PJT-1003,18/6/2023,"
+In seguito all’imprevisto 'Tempistiche' (perdita qualità) rilevato nel progetto Interconnessione Rete Gas Appennino, è stata proposta una variante correttiva.
+","19,0","-€28303,00",In valutazione
+"
+Modifica per materiali
+",PJT-1004,2/5/2024,"
+In seguito all’imprevisto 'Materiali' (perdita qualità) rilevato nel progetto Galleria Ferroviaria Monte Bianco, è stata proposta una variante correttiva.
+","10,0","€0,00",Approvata
+"
+Modifica per risorse interne
+",PJT-1004,15/10/2024,"
+In seguito all’imprevisto 'Risorse interne' (ritardo consegna) rilevato nel progetto Galleria Ferroviaria Monte Bianco, è stata proposta una variante correttiva.
+","26,0","€0,00",In valutazione
+"
+Modifica per materiali
+",PJT-1004,26/7/2023,"
+In seguito all’imprevisto 'Materiali' (perdita qualità) rilevato nel progetto Galleria Ferroviaria Monte Bianco, è stata proposta una variante correttiva.
+","6,0","€0,00",Approvata
+"
+Modifica per risorse interne
+",PJT-1005,1/1/2025,"
+In seguito all’imprevisto 'Risorse interne' (sforamento costi) rilevato nel progetto Ampliamento Stazione AV Bologna, è stata proposta una variante correttiva.
+","3,0","€34731,00",Approvata
+"
+Modifica per risorse interne
+",PJT-1005,31/10/2024,"
+In seguito all’imprevisto 'Risorse interne' (sforamento costi) rilevato nel progetto Ampliamento Stazione AV Bologna, è stata proposta una variante correttiva.
+","-4,0","€47738,00",Rifiutata
+"
+Modifica per risorse interne
+",PJT-1005,8/8/2025,"
+In seguito all’imprevisto 'Risorse interne' (perdita qualità) rilevato nel progetto Ampliamento Stazione AV Bologna, è stata proposta una variante correttiva.
+","-4,0","€48634,00",Approvata
+"
+Modifica per cliente
+",PJT-1006,8/12/2023,"
+In seguito all’imprevisto 'Cliente' (ritardo consegna) rilevato nel progetto Sottostazione Elettrica Brindisi, è stata proposta una variante correttiva.
+","24,0","€0,00",Rifiutata
+"
+Modifica per tempistiche
+",PJT-1006,1/1/2024,"
+In seguito all’imprevisto 'Tempistiche' (ritardo consegna) rilevato nel progetto Sottostazione Elettrica Brindisi, è stata proposta una variante correttiva.
+","9,0","€0,00",Rifiutata
+"
+Modifica per cliente
+",PJT-1006,4/12/2023,"
+In seguito all’imprevisto 'Cliente' (perdita qualità) rilevato nel progetto Sottostazione Elettrica Brindisi, è stata proposta una variante correttiva.
+","-4,0","€0,00",In valutazione
+"
+Modifica per tempistiche
+",PJT-1007,28/11/2023,"
+In seguito all’imprevisto 'Tempistiche' (perdita qualità) rilevato nel progetto Potenziamento Nodo Ferroviario Torino, è stata proposta una variante correttiva.
+","13,0","€0,00",In valutazione
+"
+Modifica per tempistiche
+",PJT-1007,22/8/2023,"
+In seguito all’imprevisto 'Tempistiche' (perdita qualità) rilevato nel progetto Potenziamento Nodo Ferroviario Torino, è stata proposta una variante correttiva.
+","2,0","-€15858,00",In valutazione
+"
+Modifica per cliente
+",PJT-1008,9/11/2024,"
+In seguito all’imprevisto 'Cliente' (sforamento costi) rilevato nel progetto Linea Interrata 380kV Nord-Sud, è stata proposta una variante correttiva.
+","4,0","€24952,00",In valutazione
+"
+Modifica per cliente
+",PJT-1008,6/10/2024,"
+In seguito all’imprevisto 'Cliente' (sforamento costi) rilevato nel progetto Linea Interrata 380kV Nord-Sud, è stata proposta una variante correttiva.
+","12,0","€34935,00",Approvata
+"
+Modifica per tempistiche
+",PJT-1009,22/10/2023,"
+In seguito all’imprevisto 'Tempistiche' (sforamento costi) rilevato nel progetto Rete Idrica Industriale Cagliari, è stata proposta una variante correttiva.
+","-5,0","€48065,00",Approvata
+"
+Modifica per cliente
+",PJT-1009,5/10/2023,"
+In seguito all’imprevisto 'Cliente' (sforamento costi) rilevato nel progetto Rete Idrica Industriale Cagliari, è stata proposta una variante correttiva.
+","7,0","€16794,00",Approvata
+"
+Modifica per tempistiche
+",PJT-1009,14/12/2023,"
+In seguito all’imprevisto 'Tempistiche' (sforamento costi) rilevato nel progetto Rete Idrica Industriale Cagliari, è stata proposta una variante correttiva.
+","0,0","€15919,00",Approvata
+"
+Modifica per cliente
+",PJT-1009,5/5/2024,"
+In seguito all’imprevisto 'Cliente' (sforamento costi) rilevato nel progetto Rete Idrica Industriale Cagliari, è stata proposta una variante correttiva.
+","-4,0","€28512,00",In valutazione
+"
+Modifica per errore tecnico
+",PJT-1010,18/9/2024,"
+In seguito all’imprevisto 'Errore tecnico' (perdita qualità) rilevato nel progetto Tunnel di Servizio Brennero, è stata proposta una variante correttiva.
+","16,0","-€17032,00",Rifiutata
+"
+Modifica per cliente
+",PJT-1010,16/6/2024,"
+In seguito all’imprevisto 'Cliente' (ritardo consegna) rilevato nel progetto Tunnel di Servizio Brennero, è stata proposta una variante correttiva.
+","15,0","€7738,00",Rifiutata
+"
+Modifica per errore tecnico
+",PJT-1010,15/6/2024,"
+In seguito all’imprevisto 'Errore tecnico' (sforamento costi) rilevato nel progetto Tunnel di Servizio Brennero, è stata proposta una variante correttiva.
+","7,0","€7897,00",Rifiutata
+"
+Modifica per risorse interne
+",PJT-1011,15/12/2023,"
+In seguito all’imprevisto 'Risorse interne' (sforamento costi) rilevato nel progetto Parco Eolico Off-shore Taranto, è stata proposta una variante correttiva.
+","0,0","€42722,00",Rifiutata
+"
+Modifica per risorse interne
+",PJT-1011,11/7/2024,"
+In seguito all’imprevisto 'Risorse interne' (sforamento costi) rilevato nel progetto Parco Eolico Off-shore Taranto, è stata proposta una variante correttiva.
+","-4,0","€45585,00",Rifiutata
+"
+Modifica per tempistiche
+",PJT-1011,21/2/2024,"
+In seguito all’imprevisto 'Tempistiche' (ritardo consegna) rilevato nel progetto Parco Eolico Off-shore Taranto, è stata proposta una variante correttiva.
+","34,0","€0,00",Approvata
+"
+Modifica per risorse interne
+",PJT-1011,19/12/2023,"
+In seguito all’imprevisto 'Risorse interne' (ritardo consegna) rilevato nel progetto Parco Eolico Off-shore Taranto, è stata proposta una variante correttiva.
+","28,0","€0,00",In valutazione

@@ -1,0 +1,13 @@
+﻿Id Progetto,Nome Progetto,Cliente,PM responsabile,Stato,Budget Inziale,Data Inizio,Data Fine,% Avanzamento,Costi Sostenuti,Previsione Finale Costi
+PJT-1000,Linea Alta Tensione Nord-Est,Anas S.p.A.,Alessandro Neri,In corso,"€1250188,0",7/10/2023,23/3/2025,29%,"€362555,00","€528902,00"
+PJT-1001,Raddoppio Linea AV Milano–Brescia,Terna S.p.A.,Alessandro Neri,In corso,"€3565513,0",19/1/2024,23/8/2025,84%,"€2995031,00","€3295851,00"
+PJT-1002,Impianto Fotovoltaico Sicilia Ovest,Italferr,Giulia Conti,Da approvare,"€2174229,0",22/11/2023,26/5/2024,0%,"€0,00","€357928,00"
+PJT-1003,Interconnessione Rete Gas Appennino,Terna S.p.A.,Alessandro Neri,In corso,"€1038082,0",5/7/2023,11/5/2025,62%,"€643611,00","€745614,00"
+PJT-1004,Galleria Ferroviaria Monte Bianco,Italferr,Alessandro Neri,In corso,"€2314900,0",2/1/2023,25/12/2024,58%,"€1342642,00","€2007669,00"
+PJT-1005,Ampliamento Stazione AV Bologna,Terna S.p.A.,Giulia Conti,In corso,"€1291566,0",3/6/2024,1/1/2026,63%,"€813687,00","€1171121,00"
+PJT-1006,Sottostazione Elettrica Brindisi,Italferr,Marco Russo,In corso,"€1001288,0",23/11/2023,2/10/2024,38%,"€380489,00","€566321,00"
+PJT-1007,Potenziamento Nodo Ferroviario Torino,RFI,Laura Bellini,Da approvare,"€3460668,0",8/10/2023,15/6/2025,0%,"€0,00","€356771,00"
+PJT-1008,Linea Interrata 380kV Nord-Sud,Enel Green Power,Giulia Conti,Completato,"€2074389,0",10/3/2024,30/11/2024,100%,"€2074389,00","€2401750,00"
+PJT-1009,Rete Idrica Industriale Cagliari,Terna S.p.A.,Giulia Conti,Completato,"€1540200,0",20/8/2023,25/6/2024,100%,"€1540200,00","€1854665,00"
+PJT-1010,Tunnel di Servizio Brennero,SNAM,Marco Russo,In corso,"€2868030,0",22/5/2024,22/9/2024,69%,"€1978941,00","€2085088,00"
+PJT-1011,Parco Eolico Off-shore Taranto,RFI,Alessandro Neri,Completato,"€3206402,0",30/4/2023,16/10/2024,100%,"€3206402,00","€4066633,00"
