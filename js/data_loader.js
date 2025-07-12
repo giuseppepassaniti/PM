@@ -73,14 +73,17 @@ export async function loadAllData() {
             })),
             // Aggiungi qui la logica di processing anche per gli altri file
             // Esempio per gli imprevisti:
-            imprevisti: imprevisti.map(i => ({
-                title: i['Titolo Imprevisto'],
-                project: i.Progetto,
-                type: i.Tipo,
-                criticality: i.Criticità,
-                date: parseItalianDate(i['Data Imprevisti']),
-                status: i.Stato,
-            })),
+            imprevisti: (imprevisti || []).map(i => ({
+    title: i['Titolo Imprevisto'],
+    project: i.Progetto,
+    description: i['Descrizione Problema'],
+    type: i.Tipo,
+    criticality: i.Criticità || 'Bassa', // <-- AGGIUNTO: Se la criticità è vuota, la imposta a 'Bassa'
+    date: parseItalianDate(i['Data Imprevisti']), // <-- CORRETTO: 'Imprevisti' invece di 'Improvisti'
+    status: i.Stato,
+    risk: i['Rischio Previsionale'], // <-- CORRETTO: 'Previsionale' invece di 'Previsioanle'
+})),
+
             // ... e così via per varianti, milestones, decisioni.
             varianti, // Per ora li lasciamo grezzi come esempio
             milestones,
