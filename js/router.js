@@ -2,6 +2,7 @@
 
 import { renderProjectsView } from './views/progetti_view.js';
 import { renderTasksView } from './views/tasks_view.js';
+// Importa qui le altre viste quando saranno pronte
 
 const appContainer = document.getElementById('app-container');
 
@@ -15,14 +16,23 @@ function handleRouteChange(appState) {
 
     switch (path) {
         case 'tasks':
-            // Ora la funzione della vista Task viene chiamata correttamente
-            renderTasksView(appContainer, appState, id);
+            if (!id) {
+                window.location.hash = '#'; // Se non c'è ID, torna alla home
+            } else {
+                renderTasksView(appContainer, appState, id);
+            }
             break;
+
+        // Aggiungi qui gli altri 'case' per le future viste. Esempio:
+        /*
         case 'imprevisti':
-            // Qui andrà la chiamata a renderImprevistiView quando sarà pronta
-            appContainer.innerHTML = `<h1>WIP: Vista Imprevisti per ${id}</h1>`;
+            if (!id) {
+                window.location.hash = '#';
+            } else {
+                renderImprevistiView(appContainer, appState, id);
+            }
             break;
-        // Aggiungi qui gli altri 'case' per le future viste
+        */
 
         default:
             renderProjectsView(appContainer, appState);
